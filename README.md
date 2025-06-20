@@ -16,5 +16,5 @@ A simple Python script that uses the built-in `math` module to perform basic mat
 ## Functionality
 
 - Calculates the **square root** of a number using math.sqrt() .
-- Calculates the **natural logarithm** (base *e*) math.log(num) .
+- Calculates the **natural logarithm** (base *e*) math.log() .
 - Calculates the **sine** of the number (in radians) math.sin() .
